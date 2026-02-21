@@ -1,0 +1,49 @@
+@import "../css/global.css";
+@import "../css/fonts.css";
+
+body {
+  font-family: "Martian Mono";
+  font-size: 20px;
+  line-height: 1.4;
+  letter-spacing: -0 5px;
+}
+
+
+/*  HEADER START  */
+.header {
+background-color: #faf5f3;
+
+
+}
+
+.header-top {
+}
+.container {
+}
+.header-hero {
+}
+.header-hero__content {
+}
+.header-hero__title {
+}
+.header-hero__desc {
+}
+.header-hero__btn {
+}
+.btn {
+}
+.testimonials {
+}
+.testimonials__image {
+}
+.testimonials__content {
+}
+.stars {
+}
+.testomonials__desc {
+}
+.header-hero__images {
+}
+
+
+/* HEADER END */
