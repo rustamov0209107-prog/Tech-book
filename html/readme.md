@@ -1,0 +1,1 @@
+Loyixani boshlashgit push origin main
